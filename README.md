@@ -1,6 +1,6 @@
 # Yalın Gökçe
 
-Mathematics student at Galatasaray University (graduating June 2027), working toward  Data & risk analytics for business decisions
+Mathematics student at Galatasaray University (graduating June 2027), focused on data and risk analytics for business decisions.
 
 ### Projects
 
